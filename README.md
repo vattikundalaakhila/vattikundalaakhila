@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Akhila</h1>
-<h3 align="center">Aspiring Full Stack Java Developer</h3>
+<h3 align="center">🚀 Aspiring Full Stack Java Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&lines=Full+Stack+Java+Developer;Frontend+%2B+Backend;Building+Real+World+Projects;Learning+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&size=22&color=36BCF7&lines=Full+Stack+Java+Developer;Frontend+%2B+Backend;Building+Real+World+Projects;Always+Learning+%26+Improving" />
 </p>
 
 ---
 
 ## 🌟 About Me
-I am an **aspiring Full Stack Java Developer** who enjoys building
-**end-to-end web applications**.
+✨ I am an **aspiring Full Stack Java Developer** who enjoys building  
+clean, responsive, and user-friendly web applications.
 
-I like working on:
-- clean and responsive UI
-- logical problem solving
-- connecting frontend with backend logic  
+💡 I love:
+- turning ideas into UI
+- solving logical problems
+- understanding how frontend and backend connect  
 
-Currently, I am building real projects and preparing for technical interviews,
-while continuously improving my development skills.
+Currently focused on **projects, consistency, and growth**.
 
 ---
 
@@ -25,65 +24,66 @@ while continuously improving my development skills.
 
 ### 🎨 Frontend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
 </p>
 
 ### 🧰 Tools & Concepts
 - Git & GitHub  
-- Object-Oriented Programming (OOP)  
+- Object-Oriented Programming  
 - Java Collections  
-- Basic JDBC & REST concepts (learning)  
+- JDBC & REST basics (learning)  
 - VS Code  
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-### 🔹 ERP Project – Employees Module
-- Built using **HTML, CSS, JavaScript**
-- Features employee management UI
-- Responsive layout and form handling
+🔹 **ERP Project – Employees Module**  
+- Employee management UI  
+- Forms, dialogs, responsive layout  
+- HTML, CSS, JavaScript  
 
-### 🔹 Library Management System
-- Java-based application
-- Manages books, users, and records
-- Focus on backend logic and OOP
+🔹 **Library Management System**  
+- Java-based backend project  
+- Focus on logic and OOP  
 
-### 🔹 Calculator App
-- JavaScript-based frontend project
-- Focus on DOM manipulation and logic
+🔹 **Calculator App**  
+- JavaScript & DOM manipulation  
 
 ---
 
 ## 📘 Currently Learning
-- Advanced Java & backend development
-- React hooks and state management
-- Database connectivity (SQL & JDBC)
-- Writing clean and maintainable code
+- Advanced Java  
+- React Hooks & State  
+- SQL & Database Connectivity  
+- Clean Code Practices  
 
 ---
 
 ## 🎯 Career Goals
-- Become a confident **Full Stack Java Developer**
-- Build scalable real-world applications
-- Join a team where I can learn, contribute, and grow
+🎯 Become a confident **Full Stack Java Developer**  
+🎯 Build scalable real-world applications  
+🎯 Join a collaborative development team  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vattikundalaakhila&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vattikundalaakhila&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vattikundalaakhila&theme=tokyonight" />
 </p>
 
 ---
 
-✨ *Always curious. Always learning. Always building.*
-
+✨ <i>Curious mind. Consistent effort. Continuous growth.</i>
