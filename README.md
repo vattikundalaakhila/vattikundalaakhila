@@ -1,20 +1,102 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Akhila&fontSize=52&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=150&section=header&text=Hi%20👋%20I'm%20Akhila&fontSize=42&fontAlignY=50&animation=fadeIn" />
 </p>
 
-<h2 align="center">
-  <span style="color:#ff6ec7">🚀 Aspiring</span>
-  <span style="color:#36BCF7"> Full Stack Java Developer</span>
-</h2>
+<h3 align="center">
+  🚀 Aspiring <span style="color:#36BCF7">Full Stack Java Developer</span>
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&size=24&color=F75C7E&lines=Full+Stack+Java+Developer;Frontend+%2B+Backend;Java+%7C+JavaScript+%7C+React;Building+Real+World+Projects;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&size=22&color=36BCF7&lines=Full+Stack+Java+Developer;Frontend+%2B+Backend;Java+%7C+JavaScript+%7C+React;Building+Real+World+Projects;Always+Learning+%26+Improving" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Full%20Stack-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Frontend-UI%20Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mindset-Continuous%20Learner-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-Full%20Stack-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Learning-Continuous-success?style=flat-square"/>
 </p>
 
 ---
+
+## 🌟 About Me
+✨ I am an **aspiring Full Stack Java Developer** who enjoys building  
+clean, responsive, and user-friendly web applications.
+
+💡 I love:
+- turning ideas into UI
+- solving logical problems
+- understanding how frontend and backend connect  
+
+Currently focused on **projects, consistency, and growth**.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+</p>
+
+### 🧰 Tools & Concepts
+- Git & GitHub  
+- Object-Oriented Programming  
+- Java Collections  
+- JDBC & REST basics (learning)  
+- VS Code  
+
+---
+
+## 📂 Featured Projects
+
+🔹 **ERP Project – Employees Module**  
+- Employee management UI  
+- Forms, dialogs, responsive layout  
+- HTML, CSS, JavaScript  
+
+🔹 **Library Management System**  
+- Java-based backend project  
+- Focus on logic and OOP  
+
+🔹 **Calculator App**  
+- JavaScript & DOM manipulation  
+
+---
+
+## 📘 Currently Learning
+- Advanced Java  
+- React Hooks & State  
+- SQL & Database Connectivity  
+- Clean Code Practices  
+
+---
+
+## 🎯 Career Goals
+🎯 Become a confident **Full Stack Java Developer**  
+🎯 Build scalable real-world applications  
+🎯 Join a collaborative development team  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vattikundalaakhila&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vattikundalaakhila&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+✨ <i>Curious mind • Consistent effort • Continuous growth</i> ✨
+</p>
