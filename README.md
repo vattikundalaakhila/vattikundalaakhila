@@ -1,84 +1,56 @@
-<h1 align="center">Hi 👋, I'm Akhila</h1>
-<h3 align="center">🚀 Aspiring Full Stack Java Developer</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&size=24&color=F75C7E&lines=Full+Stack+Java+Developer;Frontend+%2B+Backend;Java+%7C+JavaScript+%7C+React;Building+Real+World+Projects" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Akhila&fontSize=50&fontAlignY=35&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Full%20Stack-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-Developer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Learning-Everyday-brightgreen?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?center=true&size=22&color=7F3FBF&lines=Full+Stack+Java+Developer;Frontend+%2B+Backend;Java+%7C+JavaScript+%7C+React;Curious+and+Consistent+Learner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Java%20%26%20Frontend-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🌟 About Me
-✨ I’m an **aspiring Full Stack Java Developer** who loves building  
-**clean UI**, **logical backend**, and **real-world projects**.
+## ✨ About Me
+💻 **Aspiring Full Stack Java Developer**  
+🌱 Building real-world projects & improving every day  
 
-💡 I enjoy:
-- turning designs into code  
-- solving problems step-by-step  
-- understanding *why* things work  
-
-Currently focused on **projects, interviews, and consistency**.
+I enjoy:
+- creating clean UI  
+- writing logical backend code  
+- understanding how systems work end-to-end  
 
 ---
 
-## 🎨 Frontend Skills
+## ⚡ Tech Stack
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git" />
 </p>
 
 ---
 
-## ⚙️ Backend Skills
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/>
-</p>
-
----
-
-## 📂 Featured Projects
-
-🧩 **ERP Project – Employees Module**  
-🔹 HTML, CSS, JavaScript  
-🔹 Forms, dialogs, responsive layout  
-
-📚 **Library Management System**  
-🔹 Java-based backend project  
-🔹 Focus on OOP & logic  
-
-🧮 **Calculator App**  
-🔹 JavaScript & DOM manipulation  
-
----
-
-## 📘 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Advanced-Java-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-Hooks-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-Database-lightgrey?style=flat-square" />
-</p>
+## 🚀 Projects
+🟣 **ERP Project – Employees Module**  
+🟣 **Library Management System (Java)**  
+🟣 **Calculator App (JavaScript)**  
 
 ---
 
 ## 📊 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vattikundalaakhila&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vattikundalaakhila&show_icons=true&count_private=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vattikundalaakhila&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vattikundalaakhila&theme=radical" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vattikundalaakhila&theme=radical&row=1&column=6" />
+</p>
 
 <p align="center">
-✨ <i>Curious mind • Consistent effort • Continuous growth</i> ✨
+✨ <i>Learning • Building • Growing</i> ✨
 </p>
